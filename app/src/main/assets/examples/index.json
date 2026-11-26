@@ -1,0 +1,365 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "id": "001",
+      "title": "100毫秒走8分之1圈停600毫秒重复动作",
+      "sourcePath": "100毫秒走8分之1圈停600毫秒重复动作.txt",
+      "category": "运动程控",
+      "summary": "75圈每分钟 100毫秒走1/8圈停600毫秒重复动作",
+      "textAsset": "examples/text/001.txt"
+    },
+    {
+      "id": "002",
+      "title": "8825 遥控一拖二",
+      "sourcePath": "8825 遥控一拖二.txt",
+      "category": "遥控设置",
+      "summary": "遥控一拖二",
+      "textAsset": "examples/text/002.txt"
+    },
+    {
+      "id": "003",
+      "title": "按键6按下和松开各运行一段代码",
+      "sourcePath": "按键6按下和松开各运行一段代码/按键6按下和松开各运行一段代码.txt",
+      "category": "遥控设置",
+      "summary": "功能按下按键运行指令7松开运行指令8",
+      "textAsset": "examples/text/003.txt"
+    },
+    {
+      "id": "004",
+      "title": "按时间运行",
+      "sourcePath": "按时间运行.txt",
+      "category": "运动程控",
+      "summary": "正向转十秒，停3秒，反向转十秒停3秒循环",
+      "textAsset": "examples/text/004.txt"
+    },
+    {
+      "id": "005",
+      "title": "程控多组码组合使用范例",
+      "sourcePath": "程控多组码组合使用范例.txt",
+      "category": "运动程控",
+      "summary": "程控多代码组合使用范例",
+      "textAsset": "examples/text/005.txt"
+    },
+    {
+      "id": "006",
+      "title": "单按键轮流执行两组指令",
+      "sourcePath": "单按键轮流执行两组指令.txt",
+      "category": "遥控设置",
+      "summary": "按键每按一次电机方向取反转一圈",
+      "textAsset": "examples/text/006.txt"
+    },
+    {
+      "id": "007",
+      "title": "单按键轮流执行两组指令(1)",
+      "sourcePath": "单按键轮流执行两组指令(1).txt",
+      "category": "遥控设置",
+      "summary": "单按键轮流执行两组指令带抗抖",
+      "textAsset": "examples/text/007.txt"
+    },
+    {
+      "id": "008",
+      "title": "调用两组程控代码",
+      "sourcePath": "调用两组程控代码.txt",
+      "category": "运动程控",
+      "summary": "150022  //打开第一组设定",
+      "textAsset": "examples/text/008.txt"
+    },
+    {
+      "id": "009",
+      "title": "两组代码轮流执行",
+      "sourcePath": "两组代码轮流执行.txt",
+      "category": "运动程控",
+      "summary": "每按下一次按键触发一组代码动作两组轮流触发",
+      "textAsset": "examples/text/009.txt"
+    },
+    {
+      "id": "010",
+      "title": "陈浩12214677",
+      "sourcePath": "其它/陈浩12214677.txt",
+      "category": "用户案例",
+      "summary": "数组由6位或者7位组成",
+      "textAsset": "examples/text/010.txt"
+    },
+    {
+      "id": "011",
+      "title": "鬼蛊子",
+      "sourcePath": "其它/鬼蛊子.txt",
+      "category": "用户案例",
+      "summary": "注：外接按键4功能在2019年7月24日后销售的才能设定使用",
+      "textAsset": "examples/text/011.txt"
+    },
+    {
+      "id": "012",
+      "title": "天籁01 -串口设定",
+      "sourcePath": "其它/天籁01 -串口设定.txt",
+      "category": "用户案例",
+      "summary": "00\t46\t96\t0E\t05\t00",
+      "textAsset": "examples/text/012.txt"
+    },
+    {
+      "id": "013",
+      "title": "天籁01",
+      "sourcePath": "其它/天籁01.txt",
+      "category": "用户案例",
+      "summary": "150016",
+      "textAsset": "examples/text/013.txt"
+    },
+    {
+      "id": "014",
+      "title": "唯恋那个秋-串口设定",
+      "sourcePath": "其它/唯恋那个秋-串口设定.txt",
+      "category": "用户案例",
+      "summary": "00 57 06 1A 00 00",
+      "textAsset": "examples/text/014.txt"
+    },
+    {
+      "id": "015",
+      "title": "唯恋那个秋-要求",
+      "sourcePath": "其它/唯恋那个秋-要求.txt",
+      "category": "用户案例",
+      "summary": "带个支架 间隔10秒，30秒一圈开始，40秒一圈，一直到2分钟一圈",
+      "textAsset": "examples/text/015.txt"
+    },
+    {
+      "id": "016",
+      "title": "正转1反转半 往返66次-没人泡的面",
+      "sourcePath": "其它/正转1反转半 往返66次-没人泡的面.txt",
+      "category": "用户案例",
+      "summary": "//正运行33次",
+      "textAsset": "examples/text/016.txt"
+    },
+    {
+      "id": "017",
+      "title": "huanghezhi0311-小河流水",
+      "sourcePath": "其它/huanghezhi0311-小河流水.txt",
+      "category": "用户案例",
+      "summary": "000100  //速度设为100降速稳定",
+      "textAsset": "examples/text/017.txt"
+    },
+    {
+      "id": "018",
+      "title": "tb761750475",
+      "sourcePath": "其它/tb761750475.txt",
+      "category": "用户案例",
+      "summary": "数组由6位或者7位纯数字组成",
+      "textAsset": "examples/text/018.txt"
+    },
+    {
+      "id": "019",
+      "title": "tb7677432-设定要求",
+      "sourcePath": "其它/tb7677432-设定要求.txt",
+      "category": "用户案例",
+      "summary": "tb7677432",
+      "textAsset": "examples/text/019.txt"
+    },
+    {
+      "id": "020",
+      "title": "设定0位和180度两个按键",
+      "sourcePath": "设定0位和180度两个按键.txt",
+      "category": "遥控设置",
+      "summary": "150022",
+      "textAsset": "examples/text/020.txt"
+    },
+    {
+      "id": "021",
+      "title": "设定4个转轴位置按键",
+      "sourcePath": "设定4个转轴位置按键.txt",
+      "category": "遥控设置",
+      "summary": "设定4个位置按键",
+      "textAsset": "examples/text/021.txt"
+    },
+    {
+      "id": "022",
+      "title": "设定4组遥控器按键电机往返",
+      "sourcePath": "设定4组遥控器按键电机往返.txt",
+      "category": "遥控设置",
+      "summary": "输入时直接按遥控器数字按键即可",
+      "textAsset": "examples/text/022.txt"
+    },
+    {
+      "id": "023",
+      "title": "设定5个速度按键",
+      "sourcePath": "设定5个速度按键.txt",
+      "category": "遥控设置",
+      "summary": "设定5个速度遥控器按键",
+      "textAsset": "examples/text/023.txt"
+    },
+    {
+      "id": "024",
+      "title": "设定两个外接按键指定圈数",
+      "sourcePath": "设定两个外接按键指定圈数.txt",
+      "category": "外设与联动",
+      "summary": "设定是以6/7位数字组成的数组",
+      "textAsset": "examples/text/024.txt"
+    },
+    {
+      "id": "025",
+      "title": "设定正反两个限位开关",
+      "sourcePath": "设定正反两个限位开关.txt",
+      "category": "外设与联动",
+      "summary": "设定是以6/7位数字组成的数组",
+      "textAsset": "examples/text/025.txt"
+    },
+    {
+      "id": "026",
+      "title": "输入R开机复位 R和T做限位输入",
+      "sourcePath": "输入R开机复位 R和T做限位输入.txt",
+      "category": "外设与联动",
+      "summary": "数组由6位或者7位组成",
+      "textAsset": "examples/text/026.txt"
+    },
+    {
+      "id": "027",
+      "title": "停30秒转90度",
+      "sourcePath": "停30秒转90度.txt",
+      "category": "运动程控",
+      "summary": "100002    //开机运行正转",
+      "textAsset": "examples/text/027.txt"
+    },
+    {
+      "id": "028",
+      "title": "外接按键1和按键2点动",
+      "sourcePath": "外接按键1和按键2点动.txt",
+      "category": "外设与联动",
+      "summary": "//外接按键1和按键2点动",
+      "textAsset": "examples/text/028.txt"
+    },
+    {
+      "id": "029",
+      "title": "外接继电器说明",
+      "sourcePath": "外接继电器说明/外接继电器说明.txt",
+      "category": "外设与联动",
+      "summary": "输入端5输出控制继电器模块",
+      "textAsset": "examples/text/029.txt"
+    },
+    {
+      "id": "030",
+      "title": "延时20秒正转1圈循环运行",
+      "sourcePath": "延时20秒正转1圈循环运行.txt",
+      "category": "运动程控",
+      "summary": "输入时数字按键直接按即可",
+      "textAsset": "examples/text/030.txt"
+    },
+    {
+      "id": "031",
+      "title": "延时摄影双板配合",
+      "sourcePath": "延时摄影双板配合.txt",
+      "category": "外设与联动",
+      "summary": "效果：A板（滑台）运行n步，B板（相机角度）运行1步",
+      "textAsset": "examples/text/031.txt"
+    },
+    {
+      "id": "032",
+      "title": "遥控一拖三正反转停-8825",
+      "sourcePath": "遥控一拖三正反转停-8825.txt",
+      "category": "遥控设置",
+      "summary": "遥控一拖三正反转停",
+      "textAsset": "examples/text/032.txt"
+    },
+    {
+      "id": "033",
+      "title": "正10秒反转10秒运行4小时",
+      "sourcePath": "正10秒反转10秒运行4小时.txt",
+      "category": "运动程控",
+      "summary": "150022    //打开指令08设定",
+      "textAsset": "examples/text/033.txt"
+    },
+    {
+      "id": "034",
+      "title": "正反转10圈带延时",
+      "sourcePath": "正反转10圈带延时.txt",
+      "category": "运动程控",
+      "summary": "设定是以6/7位数字组成的数组",
+      "textAsset": "examples/text/034.txt"
+    },
+    {
+      "id": "035",
+      "title": "正反转420度两圈延时9或15小时",
+      "sourcePath": "正反转420度两圈延时9或15小时.txt",
+      "category": "运动程控",
+      "summary": "420度正转420度反转来回二次延时9小时、",
+      "textAsset": "examples/text/035.txt"
+    },
+    {
+      "id": "036",
+      "title": "正反转45度无限循环",
+      "sourcePath": "正反转45度无限循环.txt",
+      "category": "运动程控",
+      "summary": "正转45度无限运行",
+      "textAsset": "examples/text/036.txt"
+    },
+    {
+      "id": "037",
+      "title": "正转1圈停20秒循环",
+      "sourcePath": "正转1圈停20秒循环.txt",
+      "category": "运动程控",
+      "summary": "数组由6位或者7位组成",
+      "textAsset": "examples/text/037.txt"
+    },
+    {
+      "id": "038",
+      "title": "正转3圈延时1秒反转3圈",
+      "sourcePath": "正转3圈延时1秒反转3圈.txt",
+      "category": "运动程控",
+      "summary": "输入时直接按遥控器数字按键即可",
+      "textAsset": "examples/text/038.txt"
+    },
+    {
+      "id": "039",
+      "title": "正转一圈停2秒，反转一圈停1小时。通电运作",
+      "sourcePath": "正转一圈停2秒，反转一圈停1小时。通电运作.txt",
+      "category": "运动程控",
+      "summary": "正转一圈停2秒反转一圈停1小时通电运作",
+      "textAsset": "examples/text/039.txt"
+    },
+    {
+      "id": "040",
+      "title": "指定运行步数距离",
+      "sourcePath": "指定运行步数距离.txt",
+      "category": "运动程控",
+      "summary": "数组由6位或者7位纯数字组成",
+      "textAsset": "examples/text/040.txt"
+    },
+    {
+      "id": "041",
+      "title": "转1度停1秒循环1000次",
+      "sourcePath": "转1度停1秒循环1000次.txt",
+      "category": "运动程控",
+      "summary": "1度=6400/360=17.77777777777778=18步（注：这个是硬件问题不能凑整）",
+      "textAsset": "examples/text/041.txt"
+    },
+    {
+      "id": "042",
+      "title": "AB两点循环",
+      "sourcePath": "AB两点循环.txt",
+      "category": "运动程控",
+      "summary": "150022     //打开设定",
+      "textAsset": "examples/text/042.txt"
+    },
+    {
+      "id": "043",
+      "title": "AB两个控制板联动",
+      "sourcePath": "AB两个控制板联动/AB两个控制板联动.txt",
+      "category": "外设与联动",
+      "summary": "两个板子相同设定",
+      "textAsset": "examples/text/043.txt"
+    },
+    {
+      "id": "044",
+      "title": "AB联动",
+      "sourcePath": "AB双板联动范例/AB联动.txt",
+      "category": "外设与联动",
+      "summary": "A触发B转半圈→B转完半圈触发A转一圈→A转完触发B返回",
+      "textAsset": "examples/text/044.txt"
+    },
+    {
+      "id": "045",
+      "title": "EQ按键轮流调用两组程控代码",
+      "sourcePath": "EQ按键轮流调用两组程控代码.txt",
+      "category": "遥控设置",
+      "summary": "每按一次执行一组两组轮流",
+      "textAsset": "examples/text/045.txt"
+    }
+  ]
+}

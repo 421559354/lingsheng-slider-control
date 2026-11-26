@@ -1,0 +1,14 @@
+.gradle/
+.kotlin/
+.idea/
+.superpowers/
+local.properties
+.tools/
+build/
+app/build/
+*.iml
+/发布/
+/范例/
+/docs/superpowers/
+*.apk
+/._cache_*.exe
